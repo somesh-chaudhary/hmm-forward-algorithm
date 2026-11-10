@@ -4,21 +4,7 @@ A complete, from-scratch implementation in Python and NumPy of a **Hidden Markov
 
 ---
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [The Problem: Observation Likelihood](#the-problem-observation-likelihood)
-- [HMM Formal Mathematical Definition](#hmm-formal-mathematical-definition)
-- [The Forward Algorithm](#the-forward-algorithm)
-- [The Backward Algorithm (Verification)](#the-backward-algorithm-verification)
-- [Step-by-Step Example: Weather & Ice Cream](#step-by-step-example-weather--ice-cream)
-- [The Forward Probability (Alpha) Table](#the-forward-probability-alpha-table)
-- [Verification & Experimental Results](#verification--experimental-results)
-- [Project Architecture & Code Breakdown](#project-architecture--code-breakdown)
-- [How to Run the Project](#how-to-run-the-project)
-- [Actual Execution Output](#actual-execution-output)
-- [Limitations & Practical Considerations](#limitations--practical-considerations)
 
----
 
 ## 🎯 Project Overview
 
